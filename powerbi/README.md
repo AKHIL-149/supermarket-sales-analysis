@@ -4,7 +4,7 @@
 This Power BI implementation consists of two main dashboards analyzing supermarket sales data across multiple dimensions.
 
 ### Dashboard 1: Sales Performance & Operations Analytics
-![Sales Dashboard](docs/images/Super_Market_Sales_Analytics_Dashboard_1.png)
+![Sales Dashboard](/docs/images/Super_Market_Sales_Analytics_Dashboard_1.png)
 
 #### Key Components:
 1. KPI Cards
@@ -31,7 +31,7 @@ This Power BI implementation consists of two main dashboards analyzing supermark
      * Transaction value patterns
 
 ### Dashboard 2: Customer Insights & Product Analytics
-![Customer Dashboard](docs/images/Super_Market_Sales_Analytics_Dashboard_2.png)
+![Customer Dashboard](/docs/images/Super_Market_Sales_Analytics_Dashboard_2.png)
 
 #### Key Components:
 1. KPI Cards
@@ -130,5 +130,5 @@ DIVIDE(
 * Development environment: Windows
 
 ### Related Documents
-* [DAX Documentation](docs/DAX_Functions_Documentation.pdf)
-* [Business Case](docs/images/Super_Market_Sales_Analysis_By_Venkata_Akhil_Mettu.pptx)
+* [DAX Documentation](/docs/DAX_Functions_Documentation.pdf)
+* [Business Case](/docs/images/Super_Market_Sales_Analysis_By_Venkata_Akhil_Mettu.pptx)
